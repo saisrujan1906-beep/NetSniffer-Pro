@@ -1,4 +1,4 @@
-k# NetSniffer Pro v3.1 🔐
+# NetSniffer Pro v3.1 🔐
 
 > A real-time network packet sniffer, analyzer, and threat detector built in Python on Parrot OS.
 
