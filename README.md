@@ -63,8 +63,47 @@ Then follow the interactive menu:
 
 ## Screenshots
 
-> Add screenshots of your tool running here
+### Startup & Interface Selection
+![Startup](screenshots/startup_banner.png)
+
+### Configuration Menu
+![Config](screenshots/config_menu.png)
+
+### Live Packet Capture
+![Live Capture](screenshots/live_capture.png)
+
+### Session Summary Report
+![Summary](screenshots/summary_report.png)
 
 ---
 
 ## Project Structure
+
+```
+NetSniffer-Pro/
+│
+├── sniffer.py              # Main tool - packet capture & analysis
+├── README.md               # Documentation
+├── capture_*.csv           # Auto-generated packet capture logs
+├── threats_*.csv           # Auto-generated threat detection logs
+└── screenshots/
+    ├── startup_banner.png  # Tool startup & interface selection
+    ├── config_menu.png     # Configuration menu
+    ├── live_capture.png    # Live packet capture output
+    └── summary_report.png  # Session summary report
+```
+
+---
+
+## Disclaimer
+
+This tool is strictly for **educational and authorized network analysis only.**
+Unauthorized interception of network traffic is illegal.
+The author takes no responsibility for misuse of this tool.
+
+---
+
+## Author
+
+**Sai Srujan**
+- GitHub: [@saisrujan1906-beep](https://github.com/saisrujan1906-beep)
