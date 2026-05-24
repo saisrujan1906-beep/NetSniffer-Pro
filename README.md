@@ -38,7 +38,7 @@ A real-time network packet sniffer and threat detector built in Python on Parrot
 ## Installation
 
 ```bash
-git clone https://github.com/YOURUSERNAME/NetSniffer-Pro.git
+git clone https://github.com/saisrujan1906-beep/NetSniffer-Pro.git
 cd NetSniffer-Pro
 pip install scapy colorama
 ```
